@@ -1,0 +1,22 @@
+
+
+body{
+	background-color:#00bcd4;
+	margin:0 auto;
+}
+
+
+#parent{
+	box-shadow: 0 2px 2px #ccc;
+	margin-bottom: 
+	border: 1px solid #eee;
+}
+.card-body{
+	color:red;
+}
+h1{
+	font-style: bold;
+	color: 777; 
+	margin:100px 
+}
+
